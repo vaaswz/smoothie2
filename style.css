@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+header{ 
+    text-align: center;
+    font-size: 25px;
+    background: rgb(3, 199, 248);
+}
+main{
+    width: 80%;
+    margin: 30px auto 0px auto ;
+}
+   img{
+    width: 100%;
+    margin: 50px 0px ;
+   }
+   h1{
+    font-size: 25px;
+    text-align: center;
+   }
+   p{
+    
+    text-align: justify;
+   }  
+footer{
+    text-align: center;
+}
